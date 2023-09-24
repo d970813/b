@@ -1,0 +1,22 @@
+h1{
+    color: black;
+    background-color: ghostwhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-image: cover;
+}
+button{
+color: black;
+background-color: rgb(131, 67, 215);
+font-family: 'Times New Roman', Times, serif;
+size: 50;
+}
+#Bathroom{
+    color: black;
+    background-color: ghostwhite;
+}
+image{
+width: 50px;
+height: 50px;
+}
